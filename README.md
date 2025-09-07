@@ -26,3 +26,10 @@ The goal is to understand which factors influence satisfaction and how different
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-003B57?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/oussama--seddik/)
+
